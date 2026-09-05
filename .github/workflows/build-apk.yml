@@ -1,4 +1,4 @@
-name: Build Jarvis APK
+name: .github/workflows/build-apk.yml
 
 on:
   push:
